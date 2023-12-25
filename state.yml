@@ -4,7 +4,7 @@ recentrepos:
 - /home/alihu/Documents/GitHub/dotfiles-private
 startuppopupversion: 5
 customcommandshistory:
-- git commit -m "Added Theme for Lazygit"
 - git add .
+- git commit -m "Added Theme for Lazygit"
 hidecommandlog: false
 ignorewhitespaceindiffview: false
