@@ -1,10 +1,13 @@
 lastupdatecheck: 0
 recentrepos:
+- /mnt/NVMe/Development/tutorial-tech-founder-mongodb-nodejs
 - /home/alihu/.config/lazygit
-- /home/alihu/Documents/GitHub/dotfiles-private
 startuppopupversion: 5
 customcommandshistory:
+- gitac "delete dead code"
+- q
 - git add .
 - git commit -m "Added Theme for Lazygit"
+- wqa
 hidecommandlog: false
 ignorewhitespaceindiffview: false
